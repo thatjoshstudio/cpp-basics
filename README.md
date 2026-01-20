@@ -1,6 +1,6 @@
 # C++ Basics
 
-Description
+Description:
 This git repository contains beginner C++ programs I am writing while learning
 the fundamentals of software engineering.
 
